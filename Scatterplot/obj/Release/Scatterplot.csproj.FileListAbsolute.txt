@@ -1,6 +1,0 @@
-c:\users\str8\documents\visual studio 2013\Projects\Scatterplot\Scatterplot\bin\Release\Scatterplot.exe.config
-c:\users\str8\documents\visual studio 2013\Projects\Scatterplot\Scatterplot\bin\Release\Scatterplot.exe
-c:\users\str8\documents\visual studio 2013\Projects\Scatterplot\Scatterplot\obj\Release\Scatterplot.Form1.resources
-c:\users\str8\documents\visual studio 2013\Projects\Scatterplot\Scatterplot\obj\Release\Scatterplot.Properties.Resources.resources
-c:\users\str8\documents\visual studio 2013\Projects\Scatterplot\Scatterplot\obj\Release\Scatterplot.csproj.GenerateResource.Cache
-c:\users\str8\documents\visual studio 2013\Projects\Scatterplot\Scatterplot\obj\Release\Scatterplot.exe
