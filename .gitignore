@@ -1,3 +1,9 @@
+/bin
+/obj
+*.user
+*.suo
+*.sln.cache
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
